@@ -1,0 +1,9 @@
+{
+  "name": "rollup-plugin-screeps-commit",
+  "version": "0.0.1",
+  "description": "a rollup plugin for uploading the results of a build to screeps",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/robbert229/rollup-plugin-screeps-commit",
+  "author": "John Rowley <johnrowleyster@gmail.com>"
+}
